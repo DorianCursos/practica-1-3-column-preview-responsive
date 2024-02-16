@@ -13,10 +13,24 @@ a {
 }
 
 body {
-  margin: 0;
-  font-family: 'Lexend Deca', sans-serif;
-  font-weight: 400;
-  color: #fff;
+  color: white;
+}
+
+.box {
+  width: 200px;
+  height: 200px;
+}
+
+.box-orange {
+  background-color: orange;
+}
+
+.box-blue {
+  background-color: blue;
+}
+
+.box-green {
+  background-color: green;
 }
 
 h1,
