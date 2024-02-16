@@ -1,6 +1,6 @@
 # Título del proyecto
 
-![Imagen del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/IMAGEN-DEL-PROYECTO.jpg?raw=true)
+![Imagen del proyecto](https://raw.githubusercontent.com/DorianCursos/practica-1-3-column-preview-responsive/main/screenshots/imagen-1.png)
 
 ## Ejemplo en vivo
 
