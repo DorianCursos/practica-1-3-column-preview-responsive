@@ -26,7 +26,6 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit. A voluptatum et esse, 
 Si quieres echar un vistazo al proyecto, te recomiendo:
 
 ![Captura del proyecto](https://raw.githubusercontent.com/DorianCursos/practica-1-3-column-preview-responsive/main/design/mobile-design.jpg)
-![Captura del proyecto](https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/CAPTURA-DEL-PROYECTO.jpg?raw=true)
 
 ## Autor ✒️
 
