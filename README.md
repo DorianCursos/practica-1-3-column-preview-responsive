@@ -4,7 +4,7 @@
 
 ## Ejemplo en vivo
 
-- [URL-de-github-pages-de-este-proyecto](URL-de-github-pages-de-este-proyecto)
+- [URL-de-github-pages-de-este-proyecto](https://doriancursos.github.io/practica-1-3-column-preview-responsive/)
 
 ## Descripción 📑
 
